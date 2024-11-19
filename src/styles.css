@@ -45,6 +45,10 @@
     color: #d2d2d2;
 }
 
+.container span, .container h2{
+    font-family:'Courier New', Courier, monospace;
+  }
+
 .buttonSearch{
     background-color: transparent;
     border: 0;
